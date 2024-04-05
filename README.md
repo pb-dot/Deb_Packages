@@ -1,5 +1,5 @@
 # Deb_Packages
-This is an Online repo contains the following debian packages created by me
+This is an Online repo which contains the following debian packages created by me
 1. **fbi.deb : Linux Packet Sniffer**
 2. **prithi-ftp.deb :FTP server client**
 3. **pbChat.deb : One to One Chat Server Client**
