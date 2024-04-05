@@ -5,7 +5,7 @@ This is an Online repo contains the following debian packages created by me
 3. **pbShell.deb : Minimalistic Shell for Linux**
 
 ## Usage : FTP server and client 
-   
+#### For Deatils Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/FTP">Click Here</a>
 
 1. Download prithi-ftp.deb file from this repo
    
@@ -31,7 +31,7 @@ This is an Online repo contains the following debian packages created by me
 
 
 ## Usage : one to one Chat Server Client 
-
+#### For Deatils Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/one-to-one-Chat">Click Here</a>
 
    1. Download pbChat.deb file from this repo
    
@@ -53,7 +53,7 @@ This is an Online repo contains the following debian packages created by me
 
 
 ## Usage : Minimalistic Shell 
-
+#### For Deatils Code_Base and Features of this software <a href="https://github.com/pb-dot/pb_shell">Click Here</a>
 
    1. Download pbShell.deb file from this repo
    
