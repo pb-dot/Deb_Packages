@@ -1,8 +1,29 @@
 # Deb_Packages
 This is an Online repo contains the following debian packages created by me
-1. **prithi-ftp.deb :FTP server client**
-2. **pbChat.deb : One to One Chat Server Client**
-3. **pbShell.deb : Minimalistic Shell for Linux**
+1. **fbi.deb : Linux Packet Sniffer**
+2. **prithi-ftp.deb :FTP server client**
+3. **pbChat.deb : One to One Chat Server Client**
+4. **pbShell.deb : Minimalistic Shell for Linux**
+
+## Usage : Linux Packet Sniffer
+#### For Deatils Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/Fbi">Click Here</a>
+
+1. Download fbi.deb file from this repo
+   
+2. To install run:
+   1. sudo dpkg -i fbi.deb
+
+3. On Succesfull install U will see there is a folder created /fbi
+
+4. Setup :
+   1. cd /fbi
+   2. to run  use sudo ./fbi -i [interFace Name eg wlo1]
+   3. On success 3 report files will be created under /fbi as output
+
+5. To uninstall run:
+   1. sudo rm -r /fbi
+   2. sudo dpkg -P fbi
+
 
 ## Usage : FTP server and client 
 #### For Deatils Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/FTP">Click Here</a>
@@ -62,7 +83,7 @@ This is an Online repo contains the following debian packages created by me
 
    3. On Succesfull install pbShell exe is created under /usr/bin.
    
-   4. Type pbShell in terminal to access my shell from anu=ywhere
+   4. Type pbShell in terminal to access my shell from anywhere
    
    5. To uninstall run:
       1. dpkg -P pbShell
