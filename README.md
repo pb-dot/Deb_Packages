@@ -6,7 +6,7 @@ This is an Online repo which contains the following debian packages created by m
 4. **pbShell.deb : Minimalistic Shell for Linux**
 
 ## Installation Steps : Linux Packet Sniffer
-#### To Know What it does, its Deatils, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/Fbi">Click Here</a>
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/Fbi">Click Here</a>
 
 1. Download fbi.deb file from this repo
    
@@ -26,7 +26,7 @@ This is an Online repo which contains the following debian packages created by m
 
 
 ## Installation Steps : FTP server and client 
-#### To Know What it does, its Deatils, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/FTP">Click Here</a>
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/FTP">Click Here</a>
 
 1. Download prithi-ftp.deb file from this repo
    
@@ -52,7 +52,7 @@ This is an Online repo which contains the following debian packages created by m
 
 
 ## Installation Steps : one to one Chat Server Client 
-#### To Know What it does, its Deatils, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/one-to-one-Chat">Click Here</a>
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/one-to-one-Chat">Click Here</a>
 
    1. Download pbChat.deb file from this repo
    
@@ -74,7 +74,7 @@ This is an Online repo which contains the following debian packages created by m
 
 
 ## Installation Steps : Minimalistic Shell 
-#### To Know What it does, its Deatils, its Code_Base and Features of this software <a href="https://github.com/pb-dot/pb_shell">Click Here</a>
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/pb_shell">Click Here</a>
 
    1. Download pbShell.deb file from this repo
    
