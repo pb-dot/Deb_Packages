@@ -1,8 +1,8 @@
 # Deb_Packages
 This is an Online repo which contains the following debian packages created by me
 1. **fbi.deb : Linux Packet Sniffer**
-2. **prithi-ftp.deb :FTP server client**
-3. **pbChat.deb : One to One Chat Server Client**
+2. **prithi-ftp.deb :custom FTP server client**
+3. **pbChat.deb : One to One Chat App**
 4. **pbShell.deb : Minimalistic Shell for Linux**
 
 ## Installation Steps : Linux Packet Sniffer
@@ -25,7 +25,7 @@ This is an Online repo which contains the following debian packages created by m
    2. sudo dpkg -P fbi
 
 
-## Installation Steps : FTP server and client 
+## Installation Steps : custom FTP server and client 
 #### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/FTP">Click Here</a>
 
 1. Download prithi-ftp.deb file from this repo
@@ -51,7 +51,7 @@ This is an Online repo which contains the following debian packages created by m
    2. dpkg -P prithi-ftp
 
 
-## Installation Steps : one to one Chat Server Client 
+## Installation Steps : one to one Chat App 
 #### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/one-to-one-Chat">Click Here</a>
 
    1. Download pbChat.deb file from this repo
