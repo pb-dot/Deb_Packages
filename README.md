@@ -1,7 +1,7 @@
 # Deb_Packages
 This is an Online repo which contains the following debian packages created by me
 1. **fbi.deb : Linux Packet Sniffer**
-2. **prithi-ftp.deb :custom FTP server client**
+2. **prithi-ftp.deb : custom FTP server client**
 3. **pbChat.deb : One to One Chat App**
 4. **pbShell.deb : Minimalistic Shell for Linux**
 
