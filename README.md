@@ -1,9 +1,38 @@
 # Deb_Packages
 This is an Online repo which contains the following debian packages created by me
-1. **fbi.deb : Linux Packet Sniffer**
-2. **prithi-ftp.deb : custom FTP server client**
-3. **pbChat.deb : One to One Chat App**
-4. **pbShell.deb : Minimalistic Shell for Linux**
+1. **Retro_X85_Emu.deb : Intel 8085A Emulator with Dark Themed Retro Style UI**
+2. **fbi.deb : Linux Packet Sniffer**
+3. **prithi-ftp.deb : custom FTP server client**
+4. **pbChat.deb : One to One Chat App**
+5. **pbShell.deb : Minimalistic Shell for Linux**
+
+## Installation Steps : Intel 8085A Emulator with Dark Themed Retro Style UI
+
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/raj-shahh/8085_temp">Click Here</a>
+
+#### Download Retro_X85_Emu.deb  from this repo
+
+#### Install & Uninstall the .deb Package :-
+    sudo dpkg -i Retro_X85_Emu.deb // install
+    sudo dpkg -r retro-x85-emu     // remove
+
+#### Verify Succesfull Install of Deb pkg (check below dir structure exists):-
+    /Emu_x85/
+    ├── bin/
+    │   └── emu
+    ├── Config_Rsts/
+    │   └── RST_0_1000.asm
+    └── egInputs/
+        ├── demo1.asm
+        └── demo2.op
+
+#### Eg Use the installed deb_pkg :-
+    cd /Emu_x85
+    ./bin/emu ->Enter to see usage instrction
+    // Some example Runs (either do 1> or 2> )->
+    1> ./bin/emu 8000 ./egInputs/demo1.asm --one_go ./Config_Rsts
+    2> ./bin/emu 1000 ./egInputs/demo2.op --step_wise
+
 
 ## Installation Steps : Linux Packet Sniffer
 #### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/pb-dot/Socket_Programming/tree/main/Fbi">Click Here</a>
