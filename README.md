@@ -8,7 +8,7 @@ This is an Online repo which contains the following debian packages created by m
 
 ## Installation Steps : Intel 8085A Emulator with Dark Themed Retro Style UI
 
-#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/raj-shahh/8085_temp">Click Here</a>
+#### To Know What it does, its Details, its Code_Base and Features of this software <a href="https://github.com/raj-shahh/Retro-X85-Emulator">Click Here</a>
 
 #### Download Retro_X85_Emu.deb  from this repo
 
